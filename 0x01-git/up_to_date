@@ -1,2 +1,2 @@
 git add out_of_date
-git push
+git pull
